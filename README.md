@@ -46,5 +46,6 @@ Après avoir consolidé mes bases en développement mobile natif, je me lance de
 
 ### 📫 Me Contacter
 
-- **LinkedIn** : [Mon profil LinkedIn](#)  <!-- Remplacez le # par votre URL LinkedIn -->
-- **Email** : christian.aganze@example.com   <!-- Remplacez par votre vraie adresse -->
+- **LinkedIn** : [https://www.linkedin.com/in/christian-aganze-4145512b3/)](#)  <!-- Remplacez le # par votre URL LinkedIn -->
+- **Email** : aganzec29@example.com   <!-- Remplacez par votre vraie adresse -->
+- **Email** : aganzec.nakanywenge@ucbukavu.ac.cd 
