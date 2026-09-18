@@ -1,4 +1,4 @@
-# Salut, je suis Christian Aganze ! 👋 📱
+# Salut, je suis Christian Aganze !  📱
 
 **Développeur Mobile chez DrcMind & Futur Ingénieur en Système Informatique**
 
@@ -48,4 +48,4 @@ Après avoir consolidé mes bases en développement mobile natif, je me lance de
 
 - **LinkedIn** : [https://www.linkedin.com/in/christian-aganze-4145512b3/)](#)  <!-- Remplacez le # par votre URL LinkedIn -->
 - **Email** : aganzec29@example.com   <!-- Remplacez par votre vraie adresse -->
-- **Email** : aganzec.nakanywenge@ucbukavu.ac.cd 
+- **Email** : aganze.nakanywenge@ucbukavu.ac.cd 
